@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+ *program that prints all possible combinations of two two-digit numbers
+ */
+
 int main(void)
 {
 	int i, j;
